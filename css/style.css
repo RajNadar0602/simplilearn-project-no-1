@@ -250,7 +250,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
-.footer{
+footer{
     background: #2c2c2c;
     padding: 90px 0;
 
@@ -265,9 +265,9 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     align-items: center;
     flex-wrap: wrap-reverse;
 }
-.logo{
-    width: 180px;
-}
+/* .logo{
+    width: 900px;
+} */
 
 .social-media{
     margin:20px 0;
